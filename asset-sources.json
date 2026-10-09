@@ -86,5 +86,22 @@
     "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
     "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
     "recommended": true
+  },
+  "consumer-lifestyle-v2": {
+    "source_type": "AI-generated editorial concept imagery; built-in image_gen",
+    "created": "2026-10-09",
+    "files": [
+      "dist/assets/cafe-ritual-v2.webp",
+      "dist/assets/chef-dessert-v2.webp",
+      "dist/assets/plant-table-v2.webp",
+      "dist/assets/active-table-v3.webp"
+    ],
+    "depiction": "Fictional Korean premium cafe consumers, a pastry chef application scene, and a plant-based home meal. No actual partnership, customer, or verified recipe is represented.",
+    "prompts": [
+      "Korean adult cafe ritual with copy space, neutral olive/ivory/walnut editorial photography; no logos or packaging.",
+      "Pastry chef drizzling amber syrup on panna cotta and pear; authentic hand and food detail; no logos or packaging.",
+      "Korean home table with mushrooms, tofu, vegetables and seasoning sauce; no medical or weight-loss imagery.",
+      "Korean adult woman in muted olive activewear enjoying tofu, mushrooms and vegetables after exercise, subtle yoga mat, premium home table; no weight-loss or performance implication, logos or packaging."
+    ]
   }
 }
