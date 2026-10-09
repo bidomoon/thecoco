@@ -1,0 +1,90 @@
+{
+  "syrup": {
+    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/syrup.jpg",
+    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/Trang%20chi%20ti%E1%BA%BFt/M%E1%BA%ADt%20c%C3%B4%20%C4%91%E1%BA%B7c/UPDATES/mat-hoa-dua-co-dac-organic-sokfarm-1.jpg",
+    "source_page": "https://sokfarm.com/product-detail/mat-hoa-dua-co-dac-organic-sokfarm-2605265715-571",
+    "width": 2000,
+    "height": 2000,
+    "description": "Official Organic Coconut Flower Nectar Syrup bottle packshot on white background; original packaging.",
+    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
+    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
+    "recommended": true
+  },
+  "sugar": {
+    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/sugar.jpg",
+    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/Duong-150g-%281%29.jpg",
+    "source_page": "https://sokfarm.com/product-detail/sokfarm-organic-coconut-flower-sugar-2604282359-848",
+    "width": 2000,
+    "height": 2000,
+    "description": "Official Organic Coconut Flower Sugar jar packshot on white background; original packaging.",
+    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
+    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
+    "recommended": true
+  },
+  "aminos": {
+    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/aminos.jpg",
+    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/Trang%20chi%20ti%E1%BA%BFt/N%C6%B0%E1%BB%9Bc%20t%C6%B0%C6%A1ng/1.%20H%C3%ACnh%20s%E1%BA%A3n%20ph%E1%BA%A9m/update%20n%E1%BA%AFp%20xanh%20kh%C3%B4ng%20m%C3%A0n%20co/nuoc-tuong-mat-hoa-dua-huu-co-sokfarm.jpg",
+    "source_page": "https://sokfarm.com/product-detail/nuoc-tuong-mat-hoa-dua-organic-sokfarm-dong-it-muoi",
+    "width": 800,
+    "height": 800,
+    "description": "Official low-salt Organic Coconut Flower Aminos bottle packshot on white background; original packaging.",
+    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
+    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
+    "recommended": true
+  },
+  "nectar": {
+    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/nectar.png",
+    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/products/hinhmoi2/MAT%20HOA%20DUA%20TUOI%20ORGANIC%20SOKFARM%20250ML.png",
+    "source_page": "https://sokfarm.com/product-detail/mat-hoa-dua-tuoi-huu-co-sokfarm",
+    "width": 1080,
+    "height": 1080,
+    "description": "Official Organic Fresh Coconut Flower Nectar beverage 250ml bottle; transparent background; original packaging.",
+    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
+    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
+    "recommended": true
+  },
+  "farm": {
+    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/farm.jpg",
+    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/icons/hinh_1.jpg",
+    "source_page": "https://sokfarm.com/",
+    "width": 720,
+    "height": 480,
+    "description": "Production facility with stainless-steel equipment and worker in protective clothing. Suitable process secondary image, despite filename.",
+    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
+    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
+    "recommended": true
+  },
+  "harvest": {
+    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/harvest.png",
+    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/icons/hinh_2.png",
+    "source_page": "https://sokfarm.com/",
+    "width": 784,
+    "height": 522,
+    "description": "Farmer in coral-red shirt harvesting nectar from a coconut flower among green palm fronds. No typography.",
+    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
+    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
+    "recommended": true
+  },
+  "hero": {
+    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/hero.jpg",
+    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/aboutus/bannertop.jpg",
+    "source_page": "https://sokfarm.com/about-us",
+    "width": 3840,
+    "height": 1400,
+    "description": "Typographic Sokfarm about-us banner. Rejected for homepage photographic hero.",
+    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
+    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
+    "recommended": false
+  },
+  "farm-wide": {
+    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/farm-wide.png",
+    "image_url": "https://sokfarm.com/images/nongnghiephanhphuc/origin/hinh_1.png",
+    "source_page": "https://sokfarm.com/",
+    "width": 2250,
+    "height": 1500,
+    "description": "Aerial photograph of coconut farm with lush green palms, irrigation channels, small central hut. No typography or logos. Recommended full-width hero.",
+    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
+    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
+    "recommended": true
+  }
+}
