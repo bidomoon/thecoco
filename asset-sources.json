@@ -133,5 +133,33 @@
     "license": "SIL OFL 1.1",
     "local": "dist/assets/coco-editorial-v7.woff",
     "processing": "400 weight, subset locally for site headings; renamed CocoEditorial"
+  },
+  "user_materials_v8": {
+    "created": "2026-10-10",
+    "files": [
+      "dist/assets/daily-recipes-v8.png",
+      "dist/assets/sokfarm-film-v8.mp4",
+      "dist/assets/sokfarm-film-poster-v8.jpg"
+    ],
+    "source_type": "User-provided recipe poster and Vietnam company promotional MP4 ZIP",
+    "video_processing": "Complete 214.375-second video; mobile-friendly H264/AAC at 640x360 with faststart, original soundtrack retained. Poster extracted at 18 seconds.",
+    "recipes": "Four recipe cards transcribed from supplied poster: kale 3 leaves, banana 1, water 330ml; iced Americano 80ml, water 150ml; water 330ml for cold and warm servings."
+  },
+  "carton_mockup_v8": {
+    "file": "dist/assets/carton-v8.png",
+    "source_type": "AI-generated packaging visualization using user-provided Korean dieline and real carton geometry reference",
+    "references": [
+      "image(20261010-140153).png",
+      "image(20261010-140328).png"
+    ],
+    "depiction": "Cream front, emerald right side, folded top and white cap. 330ml rectangular carton. Concept packaging mockup, not a photograph of finished Korean retail packaging.",
+    "method": "Built-in image_gen; reference edit; transparent background. Front-dominant three-quarter studio packshot with original design colors and print."
+  },
+  "editorial_font_v8": {
+    "family": "Noto Serif KR",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notoserifkr",
+    "license": "SIL OFL 1.1",
+    "local": "dist/assets/coco-editorial-v8.woff",
+    "processing": "400 weight, subset for the updated page including all recipe headings."
   }
 }
