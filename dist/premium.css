@@ -1,5 +1,5 @@
 /* THE COCO / v7. Editorial typography and a warm, restrained collection. */
-@font-face{font-family:CocoEditorial;src:url('assets/coco-editorial-v9.woff') format('woff');font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:CocoEditorial;src:url('assets/coco-editorial-v10.woff') format('woff');font-style:normal;font-weight:400;font-display:swap}
 :root{--green:#244f3c;--ink:#243f32;--muted:#627065;--line:#e0e3d8;--soft:#f5f5ee;--header:84px;--cream:#fcfbf7;--gold:#a08350}
 body{background:var(--cream);color:var(--ink)}
 .container{max-width:1280px;width:calc(100% - 112px)}

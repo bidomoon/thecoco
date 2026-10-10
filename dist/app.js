@@ -33,3 +33,22 @@ const film=document.getElementById('sokfarm-film'),filmStart=document.querySelec
 filmStart.addEventListener('click',async()=>{try{await film.play();}catch{filmStart.hidden=true;film.focus();}});
 film.addEventListener('play',()=>{filmStart.hidden=true;});
 film.addEventListener('ended',()=>{filmStart.hidden=false;});
+
+// Highlight the reading position without changing keyboard focus or history.
+const readingLinks=[...document.querySelectorAll('.desktop-nav a[href^="#"]')];
+const readingSections=readingLinks.map(link=>document.querySelector(link.getAttribute('href'))).filter(Boolean);
+let readingFrame=0;
+function updateReadingPosition(){
+ readingFrame=0;
+ const marker=document.querySelector('.header').getBoundingClientRect().bottom+100;
+ const current=readingSections.filter(section=>section.getBoundingClientRect().top<=marker).at(-1);
+ readingLinks.forEach(link=>{
+  if(current&&link.getAttribute('href')==='#'+current.id)link.setAttribute('aria-current','location');
+  else link.removeAttribute('aria-current');
+ });
+}
+function queueReadingPosition(){if(!readingFrame)readingFrame=requestAnimationFrame(updateReadingPosition);}
+window.addEventListener('scroll',queueReadingPosition,{passive:true});
+window.addEventListener('resize',queueReadingPosition,{passive:true});
+window.addEventListener('load',queueReadingPosition);
+queueReadingPosition();

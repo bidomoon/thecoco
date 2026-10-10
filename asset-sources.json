@@ -195,5 +195,11 @@
     "license": "SIL OFL 1.1",
     "local": "dist/assets/coco-editorial-v9.woff",
     "processing": "400 weight, extended subset for all current site and lifestyle headings."
+  },
+  "editorial_font_v10": {
+    "family": "Noto Serif KR",
+    "license": "SIL OFL 1.1",
+    "local": "dist/assets/coco-editorial-v10.woff",
+    "processing": "400 weight, subset extended to all v10 copy; original lifestyle photos and carton mockup unchanged."
   }
 }
