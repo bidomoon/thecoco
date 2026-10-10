@@ -126,5 +126,12 @@
     "original": "/workspace/scratch/5246a6d42414/generated_images/exec-2acffee4-c885-4c98-bc2f-ed50dcb222be.png",
     "depiction": "Pale coconut blossom sap serving illustration on fresh green backdrop, no people or fabricated package. Actual official nectar bottle remains a separate unchanged manufacturer photograph in HTML. Beverage appearance is illustrative, not a verified domestic SKU serving photograph.",
     "prompt": "Use case: photorealistic-natural. Asset type: premium beverage brand website hero supporting photograph, square 1536x1536. Primary request: a bright fresh coconut blossom sap drink served in a clear small cylindrical drinking glass, pale translucent off-white nectar, light natural cloudiness, a few ice cubes and realistic condensation, on a smooth pale lime-green studio countertop. Composition: one glass on the RIGHT third, the LEFT half is clean empty pale green surface where an actual separate product packshot will be overlaid by website code. The glass fully visible from rim to base, photographed at a slightly elevated front angle, glass occupies about 38% of image height, base near 77% of image height. A minimal softly blurred green leaf at far upper right is allowed, no coconut fruit. Lighting: sunny sophisticated commercial drink photography, bright and crisp, soft directional light, subtle natural shadows, inviting freshness, airy uncluttered premium Korean brand mood. Color palette pale fresh green, creamy white, subtle transparent liquid. Constraints: NO bottle, NO packages, NO people or hands, NO food, NO cafe interior, NO text, NO logos, NO labels, NO symbols, NO watermark, NO illustrated graphics. The beverage is an illustrative serving scene, do not invent branded packaging."
+  },
+  "editorial_font_v7": {
+    "family": "Noto Serif KR",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notoserifkr",
+    "license": "SIL OFL 1.1",
+    "local": "dist/assets/coco-editorial-v7.woff",
+    "processing": "400 weight, subset locally for site headings; renamed CocoEditorial"
   }
 }
