@@ -23,3 +23,6 @@ function selectMoment(i,focus=false){const m=moments[i],p=products[m.product];do
 tabs.forEach((t,i)=>{t.addEventListener('click',()=>selectMoment(i));t.addEventListener('keydown',e=>{let next;if(e.key==='ArrowRight')next=(i+1)%tabs.length;else if(e.key==='ArrowLeft')next=(i+tabs.length-1)%tabs.length;else if(e.key==='Home')next=0;else if(e.key==='End')next=tabs.length-1;if(next!==undefined){e.preventDefault();selectMoment(next,true);}});});
 
 selectMoment(0);
+
+// Guide links reveal the relevant answer before navigating to it.
+document.querySelectorAll('[data-faq]').forEach(link=>link.addEventListener('click',event=>{const answer=document.querySelectorAll('.faq-list details')[Number(link.dataset.faq)];if(!answer)return;event.preventDefault();answer.open=true;answer.querySelector('summary').focus({preventScroll:true});answer.scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});}));
