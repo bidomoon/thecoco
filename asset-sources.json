@@ -161,5 +161,39 @@
     "license": "SIL OFL 1.1",
     "local": "dist/assets/coco-editorial-v8.woff",
     "processing": "400 weight, subset for the updated page including all recipe headings."
+  },
+  "lifestyle_v9": {
+    "source_type": "Built-in image_gen, AI-generated lifestyle scenes using the supplied carton mockup as packaging reference",
+    "scenes": [
+      {
+        "file": "dist/assets/lifestyle-gym-v9.webp",
+        "generated_original": "exec-1414fb38-2264-4e5c-a44f-b6eb3f4dcdcd.png",
+        "scene": "운동을 마친 뒤"
+      },
+      {
+        "file": "dist/assets/lifestyle-golf-v9.webp",
+        "generated_original": "exec-2304784f-c4ee-459c-8009-f6b26b5eb351.png",
+        "scene": "라운드 사이의 여유"
+      },
+      {
+        "file": "dist/assets/lifestyle-living-v9.webp",
+        "generated_original": "exec-45ea171f-e305-4a47-af76-8eb2e091bf81.png",
+        "scene": "집에서 보내는 시간"
+      },
+      {
+        "file": "dist/assets/lifestyle-postpartum-v9.webp",
+        "generated_original": "exec-e80725d9-9dda-4162-89d3-8678f00be0a5.png",
+        "scene": "아기와 함께하는 시간"
+      }
+    ],
+    "depiction": "Fictional adult Korean women holding the carton away from their mouths in a gym, golf course, and luxury living room. New mother watching her infant with a carton on the side table in a fictional premium postpartum suite. No real customer, location endorsement, or verified partnership is represented.",
+    "processing": "WebP encoding at original 1536x1024 dimensions; original framing preserved.",
+    "display": "Full-frame images in a responsive two-column desktop / one-column mobile gallery; subtle AI scene note."
+  },
+  "editorial_font_v9": {
+    "family": "Noto Serif KR",
+    "license": "SIL OFL 1.1",
+    "local": "dist/assets/coco-editorial-v9.woff",
+    "processing": "400 weight, extended subset for all current site and lifestyle headings."
   }
 }

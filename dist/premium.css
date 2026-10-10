@@ -1,5 +1,5 @@
 /* THE COCO / v7. Editorial typography and a warm, restrained collection. */
-@font-face{font-family:CocoEditorial;src:url('assets/coco-editorial-v8.woff') format('woff');font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:CocoEditorial;src:url('assets/coco-editorial-v9.woff') format('woff');font-style:normal;font-weight:400;font-display:swap}
 :root{--green:#244f3c;--ink:#243f32;--muted:#627065;--line:#e0e3d8;--soft:#f5f5ee;--header:84px;--cream:#fcfbf7;--gold:#a08350}
 body{background:var(--cream);color:var(--ink)}
 .container{max-width:1280px;width:calc(100% - 112px)}
@@ -86,3 +86,18 @@ h2{font-size:clamp(32px,3.15vw,44px);line-height:1.53}
 @media(max-width:1200px){.recipe-layout{gap:28px}.recipe-grid{gap:26px 20px}.recipe-card h3{font-size:23px}.recipe-card dl{font-size:11px}.story-grid{gap:38px}.story-text h2{font-size:32px}}
 @media(max-width:1000px) and (min-width:768px){.desktop-nav{gap:12px}.desktop-nav a{font-size:10px}.recipe-layout{grid-template-columns:.8fr 1.2fr;gap:24px}.recipe-grid{gap:23px 18px}.recipe-card{padding-top:18px}.recipe-card h3{font-size:21px}.recipe-number{font-size:8px;letter-spacing:.07em}.recipe-intro,.recipe-method{font-size:12px}.recipe-intro{min-height:70px}.recipe-card dl{font-size:10px;min-height:125px}.recipe-poster button>span{display:block}.recipe-poster button>span>span{display:block;margin-top:5px}.story-grid{gap:30px}.story-text h2{font-size:27px}}
 @media(max-width:767px){.hero-carton{width:48%;left:8%;top:7%;height:84%}.recipe-layout{display:flex;flex-direction:column;gap:28px}.recipe-poster{width:100%;padding:10px}.recipe-poster img{height:330px;object-fit:contain}.recipe-poster button>span{padding:15px 4px 5px;font-size:8px}.recipe-poster button>span>span{font-size:11px}.recipe-grid{width:100%;grid-template-columns:1fr;gap:25px}.recipe-card{padding-top:20px}.recipe-card h3{font-size:24px;margin-top:12px}.recipe-number{font-size:8px}.recipe-intro{font-size:13px;min-height:0}.recipe-card dl{font-size:12px;min-height:0;margin:15px 0}.recipe-method{font-size:13px}.recipe-bottom{display:block;margin-top:29px;padding-top:20px}.recipe-bottom .text-link{display:inline-block;margin-top:15px;font-size:12px}.recipe-dialog-bar{gap:12px;padding:14px 56px 14px 17px}.recipe-dialog-bar h2{font-size:14px}.recipe-dialog-bar a{font-size:11px}.recipe-dialog .dialog-close{right:8px;top:6px}.story-grid{display:block}.story-film{margin-bottom:32px}.story-film figcaption{font-size:9px;gap:9px}.story-film figcaption>span:first-child{font-size:8px}.film-start>span{width:50px;height:50px;font-size:16px}.film-start small{font-size:8px}.story-text h2{font-size:29px}.story-actions{margin-top:23px}.story-actions .button{font-size:12px;min-height:48px}.story-actions p{font-size:10px}.detail-image img[src*="carton-v8"]{height:100%;max-height:220px}}
+
+/* v9 / full-frame lifestyle photography. */
+.lifestyle-section{background:#fcfbf7;padding-bottom:78px}
+.lifestyle-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:39px 30px}
+.lifestyle-card{margin:0;min-width:0}
+.lifestyle-card img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:contain;border-radius:4px;background:#eeeee3}
+.lifestyle-card figcaption{padding:20px 0 0}
+.lifestyle-number{display:block;font:9px/1.8 Arial,sans-serif;letter-spacing:.12em;color:#8c8065}
+.lifestyle-card h3{font-family:CocoEditorial,'Batang',serif;font-weight:400;letter-spacing:-.04em;font-size:25px;line-height:1.65;margin-top:9px}
+.lifestyle-bottom{margin-top:32px;padding-top:22px;border-top:1px solid #dfe3d5;display:flex;justify-content:space-between;align-items:center;gap:20px}
+.lifestyle-bottom>p{font-size:11px;line-height:1.8;color:#7c876e}
+.lifestyle-bottom .text-link{display:inline-flex;gap:24px;align-items:center;min-height:44px}
+.usage-section{padding-top:78px;border-top:1px solid #e6e8dd}
+@media(max-width:1000px) and (min-width:768px){.lifestyle-grid{gap:30px 24px}.lifestyle-card h3{font-size:22px}.lifestyle-number{font-size:8px;letter-spacing:.09em}}
+@media(max-width:767px){.lifestyle-section{padding-bottom:54px}.lifestyle-grid{grid-template-columns:1fr;gap:28px}.lifestyle-card figcaption{padding-top:15px}.lifestyle-number{font-size:8px;letter-spacing:.1em}.lifestyle-card h3{font-size:23px;margin-top:7px}.lifestyle-bottom{display:block;margin-top:27px;padding-top:18px}.lifestyle-bottom>p{font-size:10px}.lifestyle-bottom .text-link{font-size:12px;margin-top:13px;gap:18px}.usage-section{padding-top:58px}}
