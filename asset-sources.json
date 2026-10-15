@@ -1,59 +1,4 @@
 {
-  "syrup": {
-    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/syrup.jpg",
-    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/Trang%20chi%20ti%E1%BA%BFt/M%E1%BA%ADt%20c%C3%B4%20%C4%91%E1%BA%B7c/UPDATES/mat-hoa-dua-co-dac-organic-sokfarm-1.jpg",
-    "source_page": "https://sokfarm.com/product-detail/mat-hoa-dua-co-dac-organic-sokfarm-2605265715-571",
-    "width": 2000,
-    "height": 2000,
-    "description": "Official Organic Coconut Flower Nectar Syrup bottle packshot on white background; original packaging.",
-    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
-    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
-    "recommended": true
-  },
-  "sugar": {
-    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/sugar.jpg",
-    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/Duong-150g-%281%29.jpg",
-    "source_page": "https://sokfarm.com/product-detail/sokfarm-organic-coconut-flower-sugar-2604282359-848",
-    "width": 2000,
-    "height": 2000,
-    "description": "Official Organic Coconut Flower Sugar jar packshot on white background; original packaging.",
-    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
-    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
-    "recommended": true
-  },
-  "aminos": {
-    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/aminos.jpg",
-    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/Trang%20chi%20ti%E1%BA%BFt/N%C6%B0%E1%BB%9Bc%20t%C6%B0%C6%A1ng/1.%20H%C3%ACnh%20s%E1%BA%A3n%20ph%E1%BA%A9m/update%20n%E1%BA%AFp%20xanh%20kh%C3%B4ng%20m%C3%A0n%20co/nuoc-tuong-mat-hoa-dua-huu-co-sokfarm.jpg",
-    "source_page": "https://sokfarm.com/product-detail/nuoc-tuong-mat-hoa-dua-organic-sokfarm-dong-it-muoi",
-    "width": 800,
-    "height": 800,
-    "description": "Official low-salt Organic Coconut Flower Aminos bottle packshot on white background; original packaging.",
-    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
-    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
-    "recommended": true
-  },
-  "nectar": {
-    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/nectar.png",
-    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/products/hinhmoi2/MAT%20HOA%20DUA%20TUOI%20ORGANIC%20SOKFARM%20250ML.png",
-    "source_page": "https://sokfarm.com/product-detail/mat-hoa-dua-tuoi-huu-co-sokfarm",
-    "width": 1080,
-    "height": 1080,
-    "description": "Official Organic Fresh Coconut Flower Nectar beverage 250ml bottle; transparent background; original packaging.",
-    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
-    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
-    "recommended": true
-  },
-  "farm": {
-    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/farm.jpg",
-    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/icons/hinh_1.jpg",
-    "source_page": "https://sokfarm.com/",
-    "width": 720,
-    "height": 480,
-    "description": "Production facility with stainless-steel equipment and worker in protective clothing. Suitable process secondary image, despite filename.",
-    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
-    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
-    "recommended": true
-  },
   "harvest": {
     "path": "/workspace/scratch/5246a6d42414/thecoco_assets/harvest.png",
     "image_url": "https://foodmap.blob.core.windows.net/sokfarm/icons/hinh_2.png",
@@ -65,58 +10,6 @@
     "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
     "recommended": true
   },
-  "hero": {
-    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/hero.jpg",
-    "image_url": "https://foodmap.blob.core.windows.net/sokfarm/aboutus/bannertop.jpg",
-    "source_page": "https://sokfarm.com/about-us",
-    "width": 3840,
-    "height": 1400,
-    "description": "Typographic Sokfarm about-us banner. Rejected for homepage photographic hero.",
-    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
-    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
-    "recommended": false
-  },
-  "farm-wide": {
-    "path": "/workspace/scratch/5246a6d42414/thecoco_assets/farm-wide.png",
-    "image_url": "https://sokfarm.com/images/nongnghiephanhphuc/origin/hinh_1.png",
-    "source_page": "https://sokfarm.com/",
-    "width": 2250,
-    "height": 1500,
-    "description": "Aerial photograph of coconut farm with lush green palms, irrigation channels, small central hut. No typography or logos. Recommended full-width hero.",
-    "source_type": "Manufacturer official website/CDN linked from sokfarm.com",
-    "reuse": "Rights not independently confirmed. Official website footer states Copyright All Rights Reserved.",
-    "recommended": true
-  },
-  "consumer-lifestyle-v2": {
-    "source_type": "AI-generated editorial concept imagery; built-in image_gen",
-    "created": "2026-10-09",
-    "files": [
-      "dist/assets/cafe-ritual-v2.webp",
-      "dist/assets/chef-dessert-v2.webp",
-      "dist/assets/plant-table-v2.webp",
-      "dist/assets/active-table-v3.webp"
-    ],
-    "depiction": "Fictional Korean premium cafe consumers, a pastry chef application scene, and a plant-based home meal. No actual partnership, customer, or verified recipe is represented.",
-    "prompts": [
-      "Korean adult cafe ritual with copy space, neutral olive/ivory/walnut editorial photography; no logos or packaging.",
-      "Pastry chef drizzling amber syrup on panna cotta and pear; authentic hand and food detail; no logos or packaging.",
-      "Korean home table with mushrooms, tofu, vegetables and seasoning sauce; no medical or weight-loss imagery.",
-      "Korean adult woman in muted olive activewear enjoying tofu, mushrooms and vegetables after exercise, subtle yoga mat, premium home table; no weight-loss or performance implication, logos or packaging."
-    ]
-  },
-  "product-usage-v4": {
-    "source_type": "AI-generated editorial food application imagery; built-in image_gen",
-    "created": "2026-10-09",
-    "files": [
-      "dist/assets/sweet-use-v4.webp",
-      "dist/assets/savory-use-v4.webp"
-    ],
-    "depiction": "Bright food usage backgrounds without people or fabricated branded packaging. Product packshots remain actual manufacturer photographs; food is an illustrative application, not a verified recipe or endorsement.",
-    "prompts": [
-      "Use case: photorealistic-natural. Asset type: bright premium coconut blossom ingredient website usage background, landscape 1536x1024. A beautifully styled sunlit ivory marble kitchen counter, with a glass of iced latte and a small ceramic bowl of plain yogurt with berries, golden toasted sourdough and a small pastry at the RIGHT two thirds of the image. A tiny plain white ceramic pitcher containing amber syrup beside the food. LEFT one third is softly illuminated empty creamy marble counter with very subtle blurred pale linen, suitable for overlay copy. Editorial food photography, natural morning light, restrained contemporary Korean premium food brand aesthetic, warm whites, ivory, soft pale sage accents, abundant brightness, realistic rich food textures, not a cafe interior, no dark shadows. Camera slightly elevated, food and glass clearly recognizable at middle distance. No people, hands, faces, logos, labels, text, packaging, palm trees, watermark, or health symbols. Syrup is a generic usage illustration, do not create branded bottles.",
-      "Use case: photorealistic-natural. Asset type: bright premium food brand website cooking usage backdrop, landscape 1536x1024. Sunlit contemporary home kitchen with warm ivory marble countertop, a carefully plated colourful meal on a matte cream ceramic plate: pan-seared tofu, grilled mushrooms, broccoli, leafy vegetables, small bowl of rice, a tiny plain sauce dish of amber-brown seasoning and a white ceramic serving spoon. Food occupies RIGHT two thirds, LEFT one third is light empty marble space for website copy with softly blurred pale kitchen background. Editorial premium natural food photography, fresh appetizing colours, airy bright white and warm cream palette, small soft sage accents, realistic texture, subtle natural shadows, refined rather than crowded. Camera slightly elevated. No people, faces, hands, gym gear, scales, diet symbols, text, labels, logos, packaging, watermark, or medical/weight-loss claims. This is a cooking application illustration, not a restaurant photograph."
-    ]
-  },
   "beverage-first-v5": {
     "source_type": "AI-generated drink serving illustration; built-in image_gen",
     "created": "2026-10-10 Asia/Seoul",
@@ -126,13 +19,6 @@
     "original": "/workspace/scratch/5246a6d42414/generated_images/exec-2acffee4-c885-4c98-bc2f-ed50dcb222be.png",
     "depiction": "Pale coconut blossom sap serving illustration on fresh green backdrop, no people or fabricated package. Actual official nectar bottle remains a separate unchanged manufacturer photograph in HTML. Beverage appearance is illustrative, not a verified domestic SKU serving photograph.",
     "prompt": "Use case: photorealistic-natural. Asset type: premium beverage brand website hero supporting photograph, square 1536x1536. Primary request: a bright fresh coconut blossom sap drink served in a clear small cylindrical drinking glass, pale translucent off-white nectar, light natural cloudiness, a few ice cubes and realistic condensation, on a smooth pale lime-green studio countertop. Composition: one glass on the RIGHT third, the LEFT half is clean empty pale green surface where an actual separate product packshot will be overlaid by website code. The glass fully visible from rim to base, photographed at a slightly elevated front angle, glass occupies about 38% of image height, base near 77% of image height. A minimal softly blurred green leaf at far upper right is allowed, no coconut fruit. Lighting: sunny sophisticated commercial drink photography, bright and crisp, soft directional light, subtle natural shadows, inviting freshness, airy uncluttered premium Korean brand mood. Color palette pale fresh green, creamy white, subtle transparent liquid. Constraints: NO bottle, NO packages, NO people or hands, NO food, NO cafe interior, NO text, NO logos, NO labels, NO symbols, NO watermark, NO illustrated graphics. The beverage is an illustrative serving scene, do not invent branded packaging."
-  },
-  "editorial_font_v7": {
-    "family": "Noto Serif KR",
-    "source": "https://github.com/google/fonts/tree/main/ofl/notoserifkr",
-    "license": "SIL OFL 1.1",
-    "local": "dist/assets/coco-editorial-v7.woff",
-    "processing": "400 weight, subset locally for site headings; renamed CocoEditorial"
   },
   "user_materials_v8": {
     "created": "2026-10-10",
@@ -154,13 +40,6 @@
     ],
     "depiction": "Cream front, emerald right side, folded top and white cap. 330ml rectangular carton. Concept packaging mockup, not a photograph of finished Korean retail packaging.",
     "method": "Built-in image_gen; reference edit; transparent background. Front-dominant three-quarter studio packshot with original design colors and print."
-  },
-  "editorial_font_v8": {
-    "family": "Noto Serif KR",
-    "source": "https://github.com/google/fonts/tree/main/ofl/notoserifkr",
-    "license": "SIL OFL 1.1",
-    "local": "dist/assets/coco-editorial-v8.woff",
-    "processing": "400 weight, subset for the updated page including all recipe headings."
   },
   "lifestyle_v9": {
     "source_type": "Built-in image_gen, AI-generated lifestyle scenes using the supplied carton mockup as packaging reference",
@@ -190,34 +69,27 @@
     "processing": "WebP encoding at original 1536x1024 dimensions; original framing preserved.",
     "display": "Full-frame images in a responsive two-column desktop / one-column mobile gallery; subtle AI scene note."
   },
-  "editorial_font_v9": {
+  "editorial_font_v12": {
     "family": "Noto Serif KR",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notoserifkr",
     "license": "SIL OFL 1.1",
-    "local": "dist/assets/coco-editorial-v9.woff",
-    "processing": "400 weight, extended subset for all current site and lifestyle headings."
+    "local": "dist/assets/coco-editorial-v12.woff",
+    "processing": "400 weight, subset for single-product v12 Korean copy"
   },
-  "editorial_font_v10": {
-    "family": "Noto Serif KR",
-    "license": "SIL OFL 1.1",
-    "local": "dist/assets/coco-editorial-v10.woff",
-    "processing": "400 weight, subset extended to all v10 copy; original lifestyle photos and carton mockup unchanged."
-  },
-  "editorial_font_v11": {
-    "family": "Noto Serif KR",
-    "license": "SIL OFL 1.1",
-    "local": "dist/assets/coco-editorial-v11.woff",
-    "processing": "400 weight, full v11 Korean copy subset"
-  },
-  "sans_font_v11": {
+  "sans_font_v12": {
     "family": "Noto Sans CJK KR",
     "source": "https://github.com/notofonts/noto-cjk/blob/main/Sans/OTF/Korean/NotoSansCJKkr-Regular.otf",
     "license": "SIL OFL 1.1",
-    "local": "dist/assets/coco-sans-v11.woff",
-    "processing": "Regular weight, full v11 Korean copy subset"
+    "local": "dist/assets/coco-sans-v12.woff",
+    "processing": "Regular weight, subset for single-product v12 Korean copy"
   },
-  "manufacturer_research_v11": {
-    "date": "2026-10-11",
+  "manufacturer_research_v12": {
+    "date": "2026-10-15",
     "local": "marketing-evidence.md",
-    "scope": "UHT 330ml drink, concentrated syrup, sugar, low-salt aminos and manufacturer origin. Links in product details match each SKU."
+    "scope": "330ml UHT drink only. Existing manufacturer film retained as company introduction."
+  },
+  "product_scope_v12": {
+    "date": "2026-10-15",
+    "decision": "User requested domestic promotion and sales of the 330ml carton drink only. Removed other product UI, data and assets."
   }
 }

@@ -1,0 +1,24 @@
+/* v12 / One product, one story: Coconut Flower Water 330ml. */
+.single-product-grid{display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:100px}
+.single-pack{margin:0;position:relative;background:#e3e8d9;min-width:0;padding:32px 30px 26px;display:flex;flex-direction:column;align-items:center}
+.single-pack-label{align-self:flex-start;font:8px/1.9 Arial,sans-serif;letter-spacing:.18em;color:#758363}
+.single-pack button{display:flex;width:100%;height:440px;align-items:center;justify-content:center;padding:20px 0;min-width:0}
+.single-pack img{display:block;width:78%;height:100%;object-fit:contain;filter:drop-shadow(10px 17px 12px #4b5e3c24);transition:transform .4s}
+.single-pack button:hover img{transform:translateY(-5px)}
+.single-pack figcaption{font-size:9px;color:#7c866f;line-height:1.9;align-self:flex-end}
+.single-product-copy{min-width:0}.single-product-copy .eyebrow{font-size:9px;letter-spacing:.17em;color:#8b816a;margin-bottom:22px}
+.single-product-copy h2{font-size:clamp(34px,3.25vw,46px);line-height:1.5;margin:0 0 30px}
+.single-product-en{font:8px/1.8 Arial,sans-serif;letter-spacing:.15em;color:#8f846d;margin-bottom:8px}
+.single-product-copy h3{font:400 20px/1.8 CocoSans,sans-serif;letter-spacing:-.03em;margin:0 0 18px;color:#35573e}
+.single-product-copy h3 span{font-size:13px;color:#819071;margin-left:12px}
+.single-product-lead{font-size:14px;line-height:2;color:#697962;margin-bottom:26px}
+.single-specs{font-size:12px;line-height:1.9;margin:0;border-top:1px solid #cdd6c2;border-bottom:1px solid #cdd6c2;padding:14px 0}
+.single-specs>div{display:grid;grid-template-columns:88px minmax(0,1fr);gap:12px;padding:5px 0}.single-specs dt{color:#7a866e}.single-specs dd{margin:0;color:#426043;overflow-wrap:anywhere}
+.single-product-actions{display:flex;align-items:center;flex-wrap:wrap;gap:16px 25px;margin-top:29px}.single-product-actions .button{font-size:12px}.single-product-actions .text-link{font-size:12px;min-height:44px;display:inline-flex;align-items:center;gap:12px}
+.single-product-note{font-size:10px;line-height:1.9;color:#819071;margin-top:20px}
+.recipes{border-top:1px solid #e0e3d7}.business-uses p{max-width:350px}
+@media(min-width:768px) and (max-width:1200px){.single-product-grid{gap:55px}.single-pack{padding:25px 24px}.single-pack button{height:390px}.single-product-copy h2{font-size:35px}.single-product-lead{font-size:13px}.single-product-actions{gap:12px 20px}.single-product-actions .button{padding:14px 22px}.single-specs{font-size:11px}.single-specs>div{grid-template-columns:75px 1fr}}
+@media(min-width:768px) and (max-width:1000px){.single-product-grid{gap:35px;grid-template-columns:.9fr 1.1fr}.single-pack{padding:25px 18px}.single-pack button{height:350px}.single-pack-label{font-size:6px;letter-spacing:.1em}.single-product-copy h2{font-size:31px}.single-product-copy h3{font-size:17px}.single-product-lead{font-size:12px}.single-product-actions .button{font-size:11px;min-height:49px}.single-product-actions .text-link{font-size:11px}.single-product-copy .eyebrow{font-size:7px}}
+@media(max-width:767px){.single-product-grid{grid-template-columns:1fr;gap:35px}.single-pack{padding:25px 24px 20px}.single-pack-label{font-size:7px;letter-spacing:.12em}.single-pack button{height:330px;padding:15px 0}.single-pack img{width:76%}.single-pack figcaption{font-size:8px}.single-product-copy .eyebrow{font-size:8px;margin-bottom:17px}.single-product-copy h2{font-size:32px;margin-bottom:25px}.single-product-copy h3{font-size:19px;margin-bottom:16px}.single-product-lead{font-size:13px;line-height:2;margin-bottom:23px}.single-specs{font-size:12px;padding:14px 0}.single-specs>div{grid-template-columns:78px minmax(0,1fr);gap:10px;padding:6px 0}.single-product-actions{gap:12px 22px;margin-top:24px}.single-product-actions .button{font-size:11px;padding:14px 21px;min-height:49px}.single-product-actions .text-link{font-size:11px}.single-product-note{font-size:10px;margin-top:19px}.taste-strip a>strong{font-size:10px}}
+@media(max-width:380px){.single-pack button{height:300px}.single-product-copy h2{font-size:30px}.single-product-copy h3{font-size:18px}.single-product-copy h3 span{margin-left:7px;font-size:12px}.single-specs{font-size:11px}.single-product-actions{gap:12px 18px}.taste-strip a>strong{font-size:9px}}
+@media(prefers-reduced-motion:reduce){.single-pack img{transition:none}.single-pack button:hover img{transform:none}}
